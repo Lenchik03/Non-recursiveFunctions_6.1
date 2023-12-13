@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Non-recursiveFunctions_6.1", "Non-recursiveFunctions_6.1\Non-recursiveFunctions_6.1.csproj", "{713B3E64-A84C-4C58-9F81-DAB69F55BCE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{713B3E64-A84C-4C58-9F81-DAB69F55BCE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{713B3E64-A84C-4C58-9F81-DAB69F55BCE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{713B3E64-A84C-4C58-9F81-DAB69F55BCE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{713B3E64-A84C-4C58-9F81-DAB69F55BCE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6B123E7-5FD2-4819-A943-6AFEE727E8A5}
+	EndGlobalSection
+EndGlobal
